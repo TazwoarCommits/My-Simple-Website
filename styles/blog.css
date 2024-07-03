@@ -1,6 +1,30 @@
-div{
-    background-color: chocolate;
-    padding: 15px;
-    margin: 3px;
+*{
+  text-align: justify;
+  border: 3px;
+  border-radius: 9px;
+ }
+
+#heading{
+    background-color: rgb(146, 196, 219);
+    padding: 1.5%;
+    margin-top: 25px;
+    margin-bottom: 8px; 
+    margin-left: 12px;
+    margin-right: 12px;
+    border: 3px double black;
+
+   
+}   
+
+.content{ 
+    font-weight: 900;
+    background-color:gray ;
+    margin-top: 25px;
+    margin-bottom: 8px; 
+    margin-left: 12px;
+    margin-right: 12px;
+    padding: 10px;
 
 }
+
+
