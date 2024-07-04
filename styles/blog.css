@@ -1,22 +1,33 @@
 *{
-  text-align: justify;
+  text-align: center;
   border: 3px;
   border-radius: 9px;
  }
-
+#login{
+    background-image: url(florian-olivo-4hbJ-eymZ1o-unsplash.jpg);
+    background-size: cover ;
+    background-position: 30;
+    padding-top: 17px;
+    padding-bottom: 20px;
+    font-weight: 700;
+}
 #heading{
+    background-image:url("cover.avif");
+    text-decoration: overline;
+    box-shadow: 5x 10px;
+    background-size: cover;
+    /*color: aquamarine;*/
     background-color: rgb(146, 196, 219);
     padding: 1.5%;
     margin-top: 25px;
-    margin-bottom: 8px; 
     margin-left: 12px;
     margin-right: 12px;
-    border: 3px double black;
+    border: 3px solid black;
 
    
 }   
 
-.content{ 
+.content { 
     font-weight: 900;
     background-color:gray ;
     margin-top: 25px;
@@ -24,7 +35,5 @@
     margin-left: 12px;
     margin-right: 12px;
     padding: 10px;
-
+    
 }
-
-
